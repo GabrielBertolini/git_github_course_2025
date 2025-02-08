@@ -1,8 +1,9 @@
-git init . -> Creates a Git repository in the current folder
-git status -> Shows the status of the working directory (for each file)
-git add <file_name> -> Stages a file for commit
-git commit -m "msg" -> Commits the staged changes
-git log -> Displays the commit history
+
+git init .  -> Creates a Git repository in the current folder
+git status  -> Shows the status of the working directory (for each file)
+git add <file_name>  -> Stages a file for commit
+git commit -m "msg"  -> Commits the staged changes
+git log  -> Displays the commit history
 
 ##Workflow (Git)
 

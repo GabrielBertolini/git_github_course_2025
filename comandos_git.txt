@@ -1,8 +1,17 @@
-git init. -> cria um repo git na pasta atual
-git status -> mostra o status do trabalho (de cada arquivo)
-git add nome_arquivo -> adiciona arquivo para ser commitado
-git commit -m "msg" -> faz commit do que estava para ser commitado
-git log -> mostra todo o histórico de commit
+git init . -> creates a Git repository in the current folder
+git status -> shows the status of the working directory (for each file)
+git add <file_name> -> stages a file for commit
+git commit -m "msg" -> commits the staged changes
+git log -> displays the commit history
 
+##Workflow (Git)
 
-
+1)Create the project directory
+2)Initialize Git inside the directory (git init .)
+3) Edit or create files
+4) Check the status (git status)
+5) Add files to staging (git add <file name>)
+6) Check the status again (git status)
+7) Commit the changes (git commit -m "message")
+8) Check the status again (git status)
+9) Return to step 3

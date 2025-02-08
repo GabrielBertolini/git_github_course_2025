@@ -2,3 +2,6 @@ This file contains additional git commands
 
 -1st command
 -2nd command
+
+# more commands
+- 3rd command

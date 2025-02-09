@@ -50,9 +50,7 @@ Also, we are going to work with GitFlow and Visual Studio Code at the end of the
 12. `git checkout main`  
 13. `git branch -D <new_branch>`  
 
-
 ---
-
 
 Participants:
 
